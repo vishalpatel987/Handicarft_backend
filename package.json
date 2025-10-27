@@ -1,0 +1,44 @@
+{
+  "name": "pawn-shop-backend",
+  "version": "1.0.0",
+  "description": "Backend for pawn shop application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "setup-admin": "node setup-admin.js",
+    "setup-admin:help": "node setup-admin.js --help",
+    "test-admin": "node test-admin-dynamic.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.41.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "express-session": "^1.18.2",
+    "form-data": "^4.0.4",
+    "google-auth-library": "^10.4.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongodb": "^6.16.0",
+    "mongoose": "^7.8.7",
+    "multer": "^2.0.1",
+    "multer-storage-cloudinary": "^4.0.0",
+    "nodemailer": "^6.10.1",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "qrcode": "^1.5.4",
+    "razorpay": "^2.9.6",
+    "react-responsive-carousel": "^3.2.23",
+    "socket.io": "^4.8.1",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

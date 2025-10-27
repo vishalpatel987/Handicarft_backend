@@ -1,0 +1,2449 @@
+[
+  {
+    "customerName": "aditya Kumar",
+    "email": "adityakumar098k@gmail.com",
+    "phone": "9134763424",
+    "address": {
+      "street": "Burla",
+      "city": "Sambalpur",
+      "state": "Odisha",
+      "pincode": "768018",
+      "country": "India"
+    },
+    "items": [
+      {
+        "id": "1749130378698",
+        "type": "floro",
+        "text": "aditya",
+        "font": "font-chewy",
+        "color": "#ff00ff",
+        "size": "medium",
+        "shape": "rectangle",
+        "usage": "outdoor",
+        "addOns": [
+          "stars"
+        ],
+        "dimmer": true,
+        "price": 3199,
+        "preview": "",
+        "_id": "6841a844d376cad363beaad0"
+      },
+      {
+        "id": "1749131525865",
+        "type": "neon",
+        "text": "aditya",
+        "font": "font-bungee",
+        "color": "#00ffff",
+        "size": "large",
+        "shape": "cut-to-shape",
+        "usage": "outdoor",
+        "addOns": [
+          "butterfly"
+        ],
+        "dimmer": true,
+        "price": 3299,
+        "preview": "",
+        "_id": "6841a844d376cad363beaad1"
+      }
+    ],
+    "totalAmount": 6498,
+    "paymentMethod": "card",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "_id": "6841a844d376cad363beaacf",
+    "createdAt": "2025-06-05T14:23:00.204Z",
+    "updatedAt": "2025-06-05T14:23:00.204Z",
+    "__v": 0,
+    "id": "6841a844d376cad363beaacf"
+  },
+  {
+    "customerName": "aditya Kumar",
+    "email": "qW@GMAIL.COM",
+    "phone": "9134763424",
+    "address": {
+      "street": "Burla",
+      "city": "Sambalpur",
+      "state": "Odisha",
+      "pincode": "768018",
+      "country": "India"
+    },
+    "items": [
+      {
+        "id": "1749562732083",
+        "type": "neon",
+        "text": "jbfjqF",
+        "font": "font-gloria-hallelujah",
+        "color": "#39ff14",
+        "size": "large",
+        "shape": "cut-to-shape",
+        "usage": "indoor",
+        "addOns": [],
+        "dimmer": false,
+        "price": 499,
+        "preview": "",
+        "_id": "6848357742ce5dbada4f5ef9"
+      }
+    ],
+    "totalAmount": 499,
+    "paymentMethod": "card",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "_id": "6848357742ce5dbada4f5ef8",
+    "createdAt": "2025-06-10T13:39:03.734Z",
+    "updatedAt": "2025-06-10T13:39:03.734Z",
+    "__v": 0,
+    "id": "6848357742ce5dbada4f5ef8"
+  },
+  {
+    "address": {
+      "street": "bholaram",
+      "city": "indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452001",
+      "country": "India"
+    },
+    "_id": "68e10c93a137b6c9cf69db99",
+    "customerName": "Vishal Patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bear Chair",
+        "price": 5500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570360/pawnshop-products/xmjrlcpebs2z0jljlqoc.png"
+      }
+    ],
+    "totalAmount": 5500,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 5500,
+    "commission": 0,
+    "createdAt": "2025-10-04T12:01:23.513Z",
+    "updatedAt": "2025-10-06T11:09:49.507Z",
+    "__v": 0,
+    "id": "68e10c93a137b6c9cf69db99"
+  },
+  {
+    "address": {
+      "street": "bholaram",
+      "city": "indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452001",
+      "country": "India"
+    },
+    "_id": "68e3981ddb039170e4f2f62a",
+    "customerName": "Vishal Patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Elephant Bookend",
+        "price": 1999,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759567895/pawnshop-products/myijvathkexuyhvoacze.png"
+      }
+    ],
+    "totalAmount": 1999,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 1999,
+    "commission": 0,
+    "createdAt": "2025-10-06T10:21:17.075Z",
+    "updatedAt": "2025-10-06T11:09:54.352Z",
+    "__v": 0,
+    "id": "68e3981ddb039170e4f2f62a"
+  },
+  {
+    "address": {
+      "street": "bholaram",
+      "city": "indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452001",
+      "country": "India"
+    },
+    "_id": "68e39ae0fd0e993fe1251eb0",
+    "customerName": "Vishal Patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Minnie-mouse Chair",
+        "price": 5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759574249/pawnshop-products/by7bvlcuivn69x5ipqfs.png"
+      }
+    ],
+    "totalAmount": 5,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 5,
+    "commission": 0,
+    "createdAt": "2025-10-06T10:33:04.802Z",
+    "updatedAt": "2025-10-06T11:10:00.004Z",
+    "__v": 0,
+    "id": "68e39ae0fd0e993fe1251eb0"
+  },
+  {
+    "address": {
+      "street": "bholaram",
+      "city": "indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452001",
+      "country": "India"
+    },
+    "_id": "68e39da9dfaa085635a3bedd",
+    "customerName": "Vishal Patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bed",
+        "price": 33325,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759569518/pawnshop-products/ukzf1yparmewhsobgnh5.png"
+      }
+    ],
+    "totalAmount": 33325,
+    "paymentMethod": "cod",
+    "orderStatus": "shipped",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 33325,
+    "commission": 0,
+    "createdAt": "2025-10-06T10:44:57.499Z",
+    "updatedAt": "2025-10-06T10:52:20.165Z",
+    "__v": 0,
+    "id": "68e39da9dfaa085635a3bedd"
+  },
+  {
+    "address": {
+      "street": "Rau",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452002",
+      "country": "India"
+    },
+    "_id": "68e3a01fda9c30ff0f642e3c",
+    "customerName": "Vishal Patel",
+    "email": "mrvishupatel28@gmail.com",
+    "phone": "917999267233",
+    "items": [
+      {
+        "name": "Minnie-mouse Chair",
+        "price": 5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759574249/pawnshop-products/by7bvlcuivn69x5ipqfs.png"
+      }
+    ],
+    "totalAmount": 5,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 5,
+    "commission": 0,
+    "createdAt": "2025-10-06T10:55:27.457Z",
+    "updatedAt": "2025-10-06T11:03:14.310Z",
+    "__v": 0,
+    "id": "68e3a01fda9c30ff0f642e3c"
+  },
+  {
+    "address": {
+      "street": "Rau",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452002",
+      "country": "India"
+    },
+    "_id": "68e3a4d66c92b0a85a1ea438",
+    "customerName": "Vishal Patel",
+    "email": "mrvishupatel28@gmail.com",
+    "phone": "917999267233",
+    "items": [
+      {
+        "name": "Bed",
+        "price": 58000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759568858/pawnshop-products/lspgcn8cjlpdqtaloqvd.png"
+      }
+    ],
+    "totalAmount": 58000,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 58000,
+    "commission": 0,
+    "createdAt": "2025-10-06T11:15:34.825Z",
+    "updatedAt": "2025-10-06T11:17:18.939Z",
+    "__v": 0,
+    "id": "68e3a4d66c92b0a85a1ea438"
+  },
+  {
+    "address": {
+      "street": "Rau",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452002",
+      "country": "India"
+    },
+    "_id": "68e3a5219c8cf6f9b3fe8d28",
+    "customerName": "Vishal Patel",
+    "email": "mrvishupatel28@gmail.com",
+    "phone": "917999267233",
+    "items": [
+      {
+        "name": "Bookshelf",
+        "price": 21299,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759569831/pawnshop-products/awm3gzzgbhsm5ct1iguu.png"
+      }
+    ],
+    "totalAmount": 21299,
+    "paymentMethod": "cod",
+    "orderStatus": "confirmed",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 21299,
+    "commission": 0,
+    "createdAt": "2025-10-06T11:16:49.711Z",
+    "updatedAt": "2025-10-06T11:17:15.642Z",
+    "__v": 0,
+    "id": "68e3a5219c8cf6f9b3fe8d28"
+  },
+  {
+    "address": {
+      "street": "Rau",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452002",
+      "country": "India"
+    },
+    "_id": "68e3a5aaacb0451e8b05dfcf",
+    "customerName": "Vishal Patel",
+    "email": "mrvishupatel28@gmail.com",
+    "phone": "917999267233",
+    "items": [
+      {
+        "name": "Horse",
+        "price": 1200,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759662597/pawnshop-products/o3aaclcf833ezxvtmwsq.png"
+      }
+    ],
+    "totalAmount": 1200,
+    "paymentMethod": "cod",
+    "orderStatus": "confirmed",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 1200,
+    "commission": 0,
+    "createdAt": "2025-10-06T11:19:06.421Z",
+    "updatedAt": "2025-10-06T11:19:26.986Z",
+    "__v": 0,
+    "id": "68e3a5aaacb0451e8b05dfcf"
+  },
+  {
+    "customerName": "Vishal Sharma",
+    "email": "mrvishupatel28@gmail.com",
+    "phone": "917999267233",
+    "address": {
+      "street": "Umariya",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "450000",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Fencing Bookshelf",
+        "price": 12765,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570133/pawnshop-products/bjpbitatipgdshsfm46m.png"
+      }
+    ],
+    "totalAmount": 12765,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 12765,
+    "commission": 0,
+    "_id": "68e3a746ab84645dc8596572",
+    "createdAt": "2025-10-06T11:25:58.206Z",
+    "updatedAt": "2025-10-06T11:25:58.206Z",
+    "__v": 0,
+    "id": "68e3a746ab84645dc8596572"
+  },
+  {
+    "customerName": "Vishal Sharma",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "917999267233",
+    "address": {
+      "street": "Umariya",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "450000",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Star Chair",
+        "price": 1300,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759731580/pawnshop-products/mkd5on8s0g1tdbk3jnri.png"
+      }
+    ],
+    "totalAmount": 1300,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 1300,
+    "commission": 0,
+    "_id": "68e3a7b5d2b21fe815b3406c",
+    "createdAt": "2025-10-06T11:27:49.471Z",
+    "updatedAt": "2025-10-06T11:27:49.471Z",
+    "__v": 0,
+    "id": "68e3a7b5d2b21fe815b3406c"
+  },
+  {
+    "address": {
+      "street": "Umariya",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "450000",
+      "country": "India"
+    },
+    "_id": "68e3a99de71e5a2ef5b420e1",
+    "customerName": "Vishal Patel",
+    "email": "vishal211130cse@sdbc.ac.in",
+    "phone": "7999267233",
+    "items": [
+      {
+        "name": "Bed",
+        "price": 58000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759568858/pawnshop-products/lspgcn8cjlpdqtaloqvd.png"
+      }
+    ],
+    "totalAmount": 58000,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 58000,
+    "commission": 0,
+    "createdAt": "2025-10-06T11:35:57.399Z",
+    "updatedAt": "2025-10-06T12:18:30.087Z",
+    "__v": 0,
+    "id": "68e3a99de71e5a2ef5b420e1"
+  },
+  {
+    "address": {
+      "street": "bholaram",
+      "city": "indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452001",
+      "country": "India"
+    },
+    "_id": "68e3ac179ea98aa52ccb68f8",
+    "customerName": "Ram Patel",
+    "email": "vishal211130cse@sdbc.ac.in",
+    "phone": "917724817688",
+    "items": [
+      {
+        "name": "Fencing Bookshelf",
+        "price": 12765,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570133/pawnshop-products/bjpbitatipgdshsfm46m.png"
+      }
+    ],
+    "totalAmount": 12765,
+    "paymentMethod": "cod",
+    "orderStatus": "confirmed",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 12765,
+    "commission": 0,
+    "createdAt": "2025-10-06T11:46:31.535Z",
+    "updatedAt": "2025-10-06T12:18:33.480Z",
+    "__v": 0,
+    "id": "68e3ac179ea98aa52ccb68f8"
+  },
+  {
+    "address": {
+      "street": "Bholaram Atm",
+      "city": "bhopal",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68e3ace7bfe556c87c9180f0",
+    "customerName": "Ram Patel",
+    "email": "vishal211130cse@sdbc.ac.in",
+    "phone": "917724817688",
+    "items": [
+      {
+        "name": "Horse",
+        "price": 1200,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759662597/pawnshop-products/o3aaclcf833ezxvtmwsq.png"
+      }
+    ],
+    "totalAmount": 1200,
+    "paymentMethod": "cod",
+    "orderStatus": "manufacturing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 1200,
+    "commission": 0,
+    "createdAt": "2025-10-06T11:49:59.313Z",
+    "updatedAt": "2025-10-06T12:18:37.758Z",
+    "__v": 0,
+    "id": "68e3ace7bfe556c87c9180f0"
+  },
+  {
+    "address": {
+      "street": "Palasiya",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "455555",
+      "country": "India"
+    },
+    "_id": "68e3af44d32a8e9fe9789b41",
+    "customerName": "Ram Patel",
+    "email": "vishal211130cse@sdbc.ac.in",
+    "phone": "917724817688",
+    "items": [
+      {
+        "name": "Lego Chest",
+        "price": 12000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759574622/pawnshop-products/amnnv5q26jaffbaaalok.png"
+      }
+    ],
+    "totalAmount": 12000,
+    "paymentMethod": "cod",
+    "orderStatus": "manufacturing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 12000,
+    "commission": 0,
+    "createdAt": "2025-10-06T12:00:04.846Z",
+    "updatedAt": "2025-10-06T12:26:57.274Z",
+    "__v": 0,
+    "id": "68e3af44d32a8e9fe9789b41"
+  },
+  {
+    "address": {
+      "street": "Palasiya",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "455555",
+      "country": "India"
+    },
+    "_id": "68e3b72aa53dc8fe1376f2aa",
+    "customerName": "Ram Patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "917724817688",
+    "items": [
+      {
+        "name": "Horse",
+        "price": 1200,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759662597/pawnshop-products/o3aaclcf833ezxvtmwsq.png"
+      }
+    ],
+    "totalAmount": 1200,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 1200,
+    "commission": 0,
+    "createdAt": "2025-10-06T12:33:46.497Z",
+    "updatedAt": "2025-10-07T06:34:47.649Z",
+    "__v": 0,
+    "adminReceivedAmount": 1080,
+    "revenueAmount": 1200,
+    "revenueStatus": "earned",
+    "id": "68e3b72aa53dc8fe1376f2aa"
+  },
+  {
+    "address": {
+      "street": "Bholaram",
+      "city": "indore",
+      "state": "Madhya Pradesh",
+      "pincode": "450010",
+      "country": "India"
+    },
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "_id": "68e3b820c8cdb84e8bc784e8",
+    "customerName": "Ram Patel",
+    "email": "vishal211130cse@sdbc.ac.in",
+    "phone": "917999267233",
+    "items": [
+      {
+        "name": "Horse",
+        "price": 1200,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759662597/pawnshop-products/o3aaclcf833ezxvtmwsq.png"
+      }
+    ],
+    "totalAmount": 1200,
+    "paymentMethod": "cod",
+    "orderStatus": "confirmed",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 1200,
+    "commission": 0,
+    "createdAt": "2025-10-06T12:37:52.028Z",
+    "updatedAt": "2025-10-08T06:02:11.782Z",
+    "__v": 0,
+    "adminReceivedAmount": 0,
+    "revenueAmount": 0,
+    "revenueStatus": "pending",
+    "id": "68e3b820c8cdb84e8bc784e8"
+  },
+  {
+    "address": {
+      "street": "GPO",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "450772",
+      "country": "India"
+    },
+    "cancellationRequested": false,
+    "_id": "68e4a9f67c65f52b397049e1",
+    "customerName": "Vishal Patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "917724817688",
+    "items": [
+      {
+        "name": "Lego Chest",
+        "price": 12000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759574622/pawnshop-products/amnnv5q26jaffbaaalok.png"
+      }
+    ],
+    "totalAmount": 12000,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 12000,
+    "commission": 0,
+    "createdAt": "2025-10-07T05:49:42.432Z",
+    "updatedAt": "2025-10-08T05:27:38.323Z",
+    "__v": 0,
+    "adminReceivedAmount": 0,
+    "revenueAmount": 0,
+    "revenueStatus": "pending",
+    "id": "68e4a9f67c65f52b397049e1"
+  },
+  {
+    "address": {
+      "street": "GPO",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "450772",
+      "country": "India"
+    },
+    "cancellationStatus": "none",
+    "_id": "68e50439bc891168a6ca978c",
+    "customerName": "Vishal Patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Grey Chair",
+        "price": 3000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570839/pawnshop-products/ocwfh4ubn7pa8cnqiy0l.png"
+      }
+    ],
+    "totalAmount": 3000,
+    "paymentMethod": "cod",
+    "orderStatus": "confirmed",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 3000,
+    "commission": 0,
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": true,
+    "isCancelled": false,
+    "createdAt": "2025-10-07T12:14:49.569Z",
+    "updatedAt": "2025-10-08T06:02:44.516Z",
+    "__v": 0,
+    "cancellationReason": "wrong select",
+    "cancelledAt": "2025-10-08T05:22:50.108Z",
+    "cancelledBy": "user",
+    "id": "68e50439bc891168a6ca978c"
+  },
+  {
+    "address": {
+      "street": "GPO",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "450772",
+      "country": "India"
+    },
+    "_id": "68e5fa1e3b9433c5affa93be",
+    "customerName": "Vishal Patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Brass Chair",
+        "price": 5200,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759674729/pawnshop-products/pwnokfebafx6kbnefsoj.png"
+      }
+    ],
+    "totalAmount": 5200,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 5200,
+    "commission": 0,
+    "revenueStatus": "earned",
+    "revenueAmount": 5200,
+    "adminReceivedAmount": 5200,
+    "cancellationRequested": true,
+    "cancellationStatus": "approved",
+    "createdAt": "2025-10-08T05:43:58.518Z",
+    "updatedAt": "2025-10-08T05:50:01.745Z",
+    "__v": 0,
+    "cancellationReason": "wrong selecte",
+    "cancellationRequestedAt": "2025-10-08T05:44:28.759Z",
+    "cancellationApprovedAt": "2025-10-08T05:45:30.004Z",
+    "cancellationApprovedBy": "Vishal Patel",
+    "cancelledAt": "2025-10-08T05:45:30.004Z",
+    "cancelledBy": "user",
+    "id": "68e5fa1e3b9433c5affa93be"
+  },
+  {
+    "customerName": "Vishal Patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "GPO",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "450772",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Stripe Bookshelf(Big)",
+        "price": 9500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759576119/pawnshop-products/dfmlqjghfsctj8hlzjzb.png"
+      }
+    ],
+    "totalAmount": 9500,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 9500,
+    "commission": 0,
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "_id": "68e5fbd8a4087819a1665dbf",
+    "createdAt": "2025-10-08T05:51:20.429Z",
+    "updatedAt": "2025-10-08T05:51:20.429Z",
+    "__v": 0,
+    "id": "68e5fbd8a4087819a1665dbf"
+  },
+  {
+    "address": {
+      "street": "GPO",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "450772",
+      "country": "India"
+    },
+    "_id": "68e5ff9808f7aa93cb5b4276",
+    "customerName": "Vishal Patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Butterfly Cane Chair",
+        "price": 2800,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570514/pawnshop-products/nbgykanagt9hrcoj0kpi.png"
+      }
+    ],
+    "totalAmount": 2800,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 2800,
+    "commission": 0,
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "createdAt": "2025-10-08T06:07:20.832Z",
+    "updatedAt": "2025-10-08T06:08:44.036Z",
+    "__v": 0,
+    "id": "68e5ff9808f7aa93cb5b4276"
+  },
+  {
+    "customerName": "Vishal Patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "GPO",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "450772",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Fencing Bookshelf",
+        "price": 12765,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570133/pawnshop-products/bjpbitatipgdshsfm46m.png"
+      }
+    ],
+    "totalAmount": 12765,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 12765,
+    "commission": 0,
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "_id": "68e6044865d6da4effdd731e",
+    "createdAt": "2025-10-08T06:27:20.791Z",
+    "updatedAt": "2025-10-08T06:27:20.791Z",
+    "__v": 0,
+    "id": "68e6044865d6da4effdd731e"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bholaram",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452002",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Grey Chair",
+        "price": 3000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570839/pawnshop-products/ocwfh4ubn7pa8cnqiy0l.png"
+      }
+    ],
+    "totalAmount": 3000,
+    "paymentMethod": "razorpay",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RRNDELUsNuwMFQ",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68e7aa10aa8b28e5cba75962",
+    "createdAt": "2025-10-09T12:26:56.879Z",
+    "updatedAt": "2025-10-09T12:26:56.879Z",
+    "__v": 0,
+    "id": "68e7aa10aa8b28e5cba75962"
+  },
+  {
+    "address": {
+      "street": "Bholaram ",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452001",
+      "country": "India"
+    },
+    "_id": "68e7abf00187e36f6faebb90",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Minnie-mouse Chair",
+        "price": 5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759574249/pawnshop-products/by7bvlcuivn69x5ipqfs.png"
+      }
+    ],
+    "totalAmount": 5,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 1,
+    "remainingAmount": 4,
+    "commission": 0,
+    "razorpayOrderId": "order_RRNN3duxuxFbv9",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-09T12:34:56.603Z",
+    "updatedAt": "2025-10-09T12:35:40.495Z",
+    "__v": 0,
+    "id": "68e7abf00187e36f6faebb90"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bholaram",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "pincode": "452001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bedside",
+        "price": 26000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759569081/pawnshop-products/jnqsfh01lxmbwo03nvoa.png"
+      }
+    ],
+    "totalAmount": 26000,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 1,
+    "remainingAmount": 25999,
+    "commission": 0,
+    "razorpayOrderId": "order_RRNW9oWYjeplKc",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68e7adec57279b7e136419e1",
+    "createdAt": "2025-10-09T12:43:24.374Z",
+    "updatedAt": "2025-10-09T12:43:24.374Z",
+    "__v": 0,
+    "id": "68e7adec57279b7e136419e1"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7999267233",
+    "address": {
+      "street": "bholaram",
+      "city": "bhopal",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Butterfly Cane Chair",
+        "price": 2800,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570514/pawnshop-products/nbgykanagt9hrcoj0kpi.png"
+      }
+    ],
+    "totalAmount": 2800,
+    "paymentMethod": "razorpay",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RRe1b9nts8hZuM",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68e890db8c517a6227adc30f",
+    "createdAt": "2025-10-10T04:51:39.340Z",
+    "updatedAt": "2025-10-10T04:51:39.340Z",
+    "__v": 0,
+    "id": "68e890db8c517a6227adc30f"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Lego Chest",
+        "price": 12000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759574622/pawnshop-products/amnnv5q26jaffbaaalok.png"
+      }
+    ],
+    "totalAmount": 12000,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 1,
+    "remainingAmount": 11999,
+    "commission": 0,
+    "razorpayOrderId": "order_RRe4BDyDI2Vbu2",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68e8916decf90c7b44124fe2",
+    "createdAt": "2025-10-10T04:54:05.406Z",
+    "updatedAt": "2025-10-10T04:54:05.406Z",
+    "__v": 0,
+    "id": "68e8916decf90c7b44124fe2"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bear Chair",
+        "price": 5500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570360/pawnshop-products/xmjrlcpebs2z0jljlqoc.png"
+      }
+    ],
+    "totalAmount": 5500,
+    "paymentMethod": "razorpay",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RRjDyUGiqnBddL",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68e8d862f9de350a653bd30b",
+    "createdAt": "2025-10-10T09:56:50.757Z",
+    "updatedAt": "2025-10-10T09:56:50.757Z",
+    "__v": 0,
+    "id": "68e8d862f9de350a653bd30b"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7999267233",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bookshelf",
+        "price": 21299,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759569831/pawnshop-products/awm3gzzgbhsm5ct1iguu.png"
+      }
+    ],
+    "totalAmount": 21299,
+    "paymentMethod": "razorpay",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RRjIQxv962ajge",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68e8d95d555d29ac51c84ca0",
+    "createdAt": "2025-10-10T10:01:01.262Z",
+    "updatedAt": "2025-10-10T10:01:01.262Z",
+    "__v": 0,
+    "id": "68e8d95d555d29ac51c84ca0"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68e9e08d91cb71bf0f52e736",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Fencing Bookshelf",
+        "price": 12765,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570133/pawnshop-products/bjpbitatipgdshsfm46m.png"
+      }
+    ],
+    "totalAmount": 12765,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 12765,
+    "commission": 0,
+    "razorpayOrderId": null,
+    "revenueStatus": "earned",
+    "revenueAmount": 12765,
+    "adminReceivedAmount": 12765,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T04:43:57.998Z",
+    "updatedAt": "2025-10-11T04:47:01.381Z",
+    "__v": 0,
+    "id": "68e9e08d91cb71bf0f52e736"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68e9e45b381ae7486508a40e",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bed",
+        "price": 58000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759568858/pawnshop-products/lspgcn8cjlpdqtaloqvd.png"
+      }
+    ],
+    "totalAmount": 58000,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 58000,
+    "commission": 0,
+    "razorpayOrderId": null,
+    "revenueStatus": "earned",
+    "revenueAmount": 58000,
+    "adminReceivedAmount": 58000,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T05:00:11.500Z",
+    "updatedAt": "2025-10-11T05:16:05.311Z",
+    "__v": 0,
+    "id": "68e9e45b381ae7486508a40e"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68e9e853f594659de3dfa0c9",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bed",
+        "price": 33325,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759569518/pawnshop-products/ukzf1yparmewhsobgnh5.png"
+      }
+    ],
+    "totalAmount": 33325,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 33325,
+    "commission": 0,
+    "razorpayOrderId": null,
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T05:17:07.358Z",
+    "updatedAt": "2025-10-11T05:29:54.236Z",
+    "__v": 0,
+    "codConfirmedAt": "2025-10-11T05:29:21.430Z",
+    "codConfirmedBy": "Vishal Patel",
+    "revenueConfirmedAt": "2025-10-11T05:29:21.430Z",
+    "id": "68e9e853f594659de3dfa0c9"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bookshelf",
+        "price": 21299,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759569831/pawnshop-products/awm3gzzgbhsm5ct1iguu.png"
+      }
+    ],
+    "totalAmount": 21299,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 21299,
+    "commission": 0,
+    "razorpayOrderId": null,
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68e9ec58bf354358853b11d4",
+    "createdAt": "2025-10-11T05:34:16.635Z",
+    "updatedAt": "2025-10-11T05:34:16.635Z",
+    "__v": 0,
+    "id": "68e9ec58bf354358853b11d4"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bedside",
+        "price": 26000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759569081/pawnshop-products/jnqsfh01lxmbwo03nvoa.png"
+      }
+    ],
+    "totalAmount": 26000,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 26000,
+    "commission": 0,
+    "razorpayOrderId": null,
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68e9eda1099d1de77bcdb484",
+    "createdAt": "2025-10-11T05:39:45.973Z",
+    "updatedAt": "2025-10-11T05:39:45.973Z",
+    "__v": 0,
+    "id": "68e9eda1099d1de77bcdb484"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68e9ee32c229b43ac991fae4",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bear Chair",
+        "price": 5500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570360/pawnshop-products/xmjrlcpebs2z0jljlqoc.png"
+      }
+    ],
+    "totalAmount": 5500,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 5500,
+    "commission": 0,
+    "razorpayOrderId": null,
+    "revenueStatus": "earned",
+    "revenueAmount": 5500,
+    "adminReceivedAmount": 5500,
+    "cancellationRequested": true,
+    "cancellationStatus": "rejected",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T05:42:10.768Z",
+    "updatedAt": "2025-10-11T05:44:58.759Z",
+    "__v": 0,
+    "cancellationReason": "hssah",
+    "cancellationRequestedAt": "2025-10-11T05:42:42.195Z",
+    "cancellationApprovedAt": "2025-10-11T05:43:08.481Z",
+    "cancellationApprovedBy": "Vishal Patel",
+    "cancellationRejectionReason": "not accept",
+    "id": "68e9ee32c229b43ac991fae4"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68e9ef9f67144d91c0732497",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Fencing Bookshelf",
+        "price": 12765,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570133/pawnshop-products/bjpbitatipgdshsfm46m.png"
+      }
+    ],
+    "totalAmount": 12765,
+    "paymentMethod": "cod",
+    "orderStatus": "manufacturing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 0,
+    "remainingAmount": 12765,
+    "commission": 0,
+    "razorpayOrderId": null,
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T05:48:15.237Z",
+    "updatedAt": "2025-10-11T05:48:34.172Z",
+    "__v": 0,
+    "id": "68e9ef9f67144d91c0732497"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68e9f02843603b5a4e205194",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bear Chair",
+        "price": 5500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570360/pawnshop-products/xmjrlcpebs2z0jljlqoc.png"
+      }
+    ],
+    "totalAmount": 5500,
+    "paymentMethod": "razorpay",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RS3YwGwnENCy9h",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T05:50:32.550Z",
+    "updatedAt": "2025-10-11T06:14:24.674Z",
+    "__v": 0,
+    "revenueEarnedAt": "2025-10-11T05:55:37.720Z",
+    "id": "68e9f02843603b5a4e205194"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Fencing Bookshelf",
+        "price": 12765,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570133/pawnshop-products/bjpbitatipgdshsfm46m.png"
+      }
+    ],
+    "totalAmount": 12765,
+    "paymentMethod": "razorpay",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RS48J6U750bvNl",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68e9f8097203df40d720c766",
+    "createdAt": "2025-10-11T06:24:09.716Z",
+    "updatedAt": "2025-10-11T06:24:09.716Z",
+    "__v": 0,
+    "id": "68e9f8097203df40d720c766"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bear Chair",
+        "price": 5500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570360/pawnshop-products/xmjrlcpebs2z0jljlqoc.png"
+      }
+    ],
+    "totalAmount": 5500,
+    "paymentMethod": "razorpay",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RS4KHE0KzoGnUR",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68e9faa7065cb2e5b2060e30",
+    "createdAt": "2025-10-11T06:35:19.743Z",
+    "updatedAt": "2025-10-11T06:35:19.743Z",
+    "__v": 0,
+    "id": "68e9faa7065cb2e5b2060e30"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bear Chair",
+        "price": 5500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570360/pawnshop-products/xmjrlcpebs2z0jljlqoc.png"
+      }
+    ],
+    "totalAmount": 5500,
+    "paymentMethod": "razorpay",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RS5DldIsTE0IVD",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68ea06f846789998f56f6303",
+    "createdAt": "2025-10-11T07:27:52.189Z",
+    "updatedAt": "2025-10-11T07:27:52.189Z",
+    "__v": 0,
+    "id": "68ea06f846789998f56f6303"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68ea07eb6ec282e1a787555b",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Minnie-mouse Chair",
+        "price": 5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759574249/pawnshop-products/by7bvlcuivn69x5ipqfs.png"
+      }
+    ],
+    "totalAmount": 5,
+    "paymentMethod": "razorpay",
+    "orderStatus": "delivered",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RS5I3Fr3If9Ih6",
+    "revenueStatus": "earned",
+    "revenueAmount": 5,
+    "adminReceivedAmount": 5,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T07:31:55.490Z",
+    "updatedAt": "2025-10-11T07:33:19.999Z",
+    "__v": 0,
+    "id": "68ea07eb6ec282e1a787555b"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68ea095e59e50d3a0b6bf749",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Grey Chair",
+        "price": 3000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570839/pawnshop-products/ocwfh4ubn7pa8cnqiy0l.png"
+      }
+    ],
+    "totalAmount": 3000,
+    "paymentMethod": "razorpay",
+    "orderStatus": "delivered",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RS5OZQHtJuGACh",
+    "revenueStatus": "earned",
+    "revenueAmount": 3000,
+    "adminReceivedAmount": 3000,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T07:38:06.494Z",
+    "updatedAt": "2025-10-11T07:38:49.104Z",
+    "__v": 0,
+    "id": "68ea095e59e50d3a0b6bf749"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68ea0af698a55d7e0fb69ceb",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bear Chair",
+        "price": 5500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570360/pawnshop-products/xmjrlcpebs2z0jljlqoc.png"
+      }
+    ],
+    "totalAmount": 5500,
+    "paymentMethod": "razorpay",
+    "orderStatus": "delivered",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RS5VnyywTJbwH9",
+    "revenueStatus": "earned",
+    "revenueAmount": 5500,
+    "adminReceivedAmount": 5500,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T07:44:54.428Z",
+    "updatedAt": "2025-10-11T07:52:15.679Z",
+    "__v": 0,
+    "id": "68ea0af698a55d7e0fb69ceb"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68ea0cf48aefa633ec3c54fd",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Minnie-mouse Chair",
+        "price": 5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759574249/pawnshop-products/by7bvlcuivn69x5ipqfs.png"
+      }
+    ],
+    "totalAmount": 5,
+    "paymentMethod": "online",
+    "orderStatus": "delivered",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RS5emdxAYoeMaW",
+    "revenueStatus": "earned",
+    "revenueAmount": 5,
+    "adminReceivedAmount": 5,
+    "revenueEarnedAt": "2025-10-11T07:53:24.871Z",
+    "revenueConfirmedAt": "2025-10-11T07:53:24.871Z",
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T07:53:24.876Z",
+    "updatedAt": "2025-10-11T07:53:53.743Z",
+    "__v": 0,
+    "id": "68ea0cf48aefa633ec3c54fd"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bear Chair",
+        "price": 5500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570360/pawnshop-products/xmjrlcpebs2z0jljlqoc.png"
+      }
+    ],
+    "totalAmount": 5500,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 39,
+    "remainingAmount": 5461,
+    "commission": 0,
+    "razorpayOrderId": "order_RS5hLNI6rJuWEs",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68ea0d863ebe7be3d0b44909",
+    "createdAt": "2025-10-11T07:55:50.218Z",
+    "updatedAt": "2025-10-11T07:55:50.218Z",
+    "__v": 0,
+    "id": "68ea0d863ebe7be3d0b44909"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68ea1a1515b8c16f1bac5045",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bear Chair",
+        "price": 5500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570360/pawnshop-products/xmjrlcpebs2z0jljlqoc.png"
+      }
+    ],
+    "totalAmount": 5500,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "completed",
+    "upfrontAmount": 39,
+    "remainingAmount": 5461,
+    "commission": 0,
+    "razorpayOrderId": "order_RS6buNahFUyBeh",
+    "revenueStatus": "earned",
+    "revenueAmount": 5500,
+    "adminReceivedAmount": 5500,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T08:49:25.933Z",
+    "updatedAt": "2025-10-11T08:51:05.967Z",
+    "__v": 0,
+    "id": "68ea1a1515b8c16f1bac5045"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68ea1c29514dc2b0ef10aa0a",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bear Chair",
+        "price": 5500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570360/pawnshop-products/xmjrlcpebs2z0jljlqoc.png"
+      }
+    ],
+    "totalAmount": 5500,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "completed",
+    "upfrontAmount": 39,
+    "remainingAmount": 5461,
+    "commission": 0,
+    "razorpayOrderId": "order_RS6lFquwybxyUY",
+    "revenueStatus": "earned",
+    "revenueAmount": 5500,
+    "adminReceivedAmount": 5500,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T08:58:17.826Z",
+    "updatedAt": "2025-10-11T08:59:12.086Z",
+    "__v": 0,
+    "id": "68ea1c29514dc2b0ef10aa0a"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Minnie-mouse Chair",
+        "price": 5,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759574249/pawnshop-products/by7bvlcuivn69x5ipqfs.png"
+      }
+    ],
+    "totalAmount": 5,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 39,
+    "remainingAmount": -34,
+    "commission": 0,
+    "razorpayOrderId": "order_RS6oKCQdIbegvW",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68ea1cd65205d379c1810a2c",
+    "createdAt": "2025-10-11T09:01:10.303Z",
+    "updatedAt": "2025-10-11T09:01:10.303Z",
+    "__v": 0,
+    "id": "68ea1cd65205d379c1810a2c"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bear Chair",
+        "price": 5500,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1759570360/pawnshop-products/xmjrlcpebs2z0jljlqoc.png"
+      }
+    ],
+    "totalAmount": 5500,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 39,
+    "remainingAmount": 5461,
+    "commission": 0,
+    "razorpayOrderId": "order_RS74WxRJiofZ5b",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68ea206d1d291d35c11b8120",
+    "createdAt": "2025-10-11T09:16:29.272Z",
+    "updatedAt": "2025-10-11T09:16:29.272Z",
+    "__v": 0,
+    "id": "68ea206d1d291d35c11b8120"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bed",
+        "price": 15000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1760176444/pawnshop-products/sknmdp5xrc9lhjpvhvbd.png"
+      }
+    ],
+    "totalAmount": 15000,
+    "paymentMethod": "online",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RS8GvoKRqU2sMp",
+    "revenueStatus": "confirmed",
+    "revenueAmount": 15000,
+    "adminReceivedAmount": 15000,
+    "revenueEarnedAt": "2025-10-11T10:26:57.990Z",
+    "revenueConfirmedAt": "2025-10-11T10:26:57.990Z",
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68ea30f1406138d55ccd466c",
+    "createdAt": "2025-10-11T10:26:57.997Z",
+    "updatedAt": "2025-10-11T10:26:57.997Z",
+    "__v": 0,
+    "id": "68ea30f1406138d55ccd466c"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68ea32cacc02f452916b3509",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bed",
+        "price": 15000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1760176444/pawnshop-products/sknmdp5xrc9lhjpvhvbd.png"
+      }
+    ],
+    "totalAmount": 15000,
+    "paymentMethod": "online",
+    "orderStatus": "delivered",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RS8PIzkqad7Rfq",
+    "revenueStatus": "earned",
+    "revenueAmount": 15000,
+    "adminReceivedAmount": 15000,
+    "revenueEarnedAt": "2025-10-11T10:34:50.554Z",
+    "revenueConfirmedAt": "2025-10-11T10:34:50.554Z",
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T10:34:50.568Z",
+    "updatedAt": "2025-10-11T10:35:37.540Z",
+    "__v": 0,
+    "id": "68ea32cacc02f452916b3509"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68ea3408451e14fbb7da4ac6",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bed",
+        "price": 15000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1760176444/pawnshop-products/sknmdp5xrc9lhjpvhvbd.png"
+      }
+    ],
+    "totalAmount": 15000,
+    "paymentMethod": "cod",
+    "orderStatus": "delivered",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 15000,
+    "commission": 0,
+    "razorpayOrderId": null,
+    "revenueStatus": "earned",
+    "revenueAmount": 15000,
+    "adminReceivedAmount": 15000,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T10:40:08.224Z",
+    "updatedAt": "2025-10-11T10:41:22.781Z",
+    "__v": 0,
+    "id": "68ea3408451e14fbb7da4ac6"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bed",
+        "price": 15000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1760176444/pawnshop-products/sknmdp5xrc9lhjpvhvbd.png"
+      }
+    ],
+    "totalAmount": 15000,
+    "paymentMethod": "online",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 0,
+    "remainingAmount": 0,
+    "commission": 0,
+    "razorpayOrderId": "order_RS8dVhm1vrUv0q",
+    "revenueStatus": "confirmed",
+    "revenueAmount": 15000,
+    "adminReceivedAmount": 15000,
+    "revenueEarnedAt": "2025-10-11T10:48:17.801Z",
+    "revenueConfirmedAt": "2025-10-11T10:48:17.801Z",
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68ea35f1eda5ab353193fc42",
+    "createdAt": "2025-10-11T10:48:17.807Z",
+    "updatedAt": "2025-10-11T10:48:17.807Z",
+    "__v": 0,
+    "id": "68ea35f1eda5ab353193fc42"
+  },
+  {
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "_id": "68ea369ce5a2c5d14e4427bf",
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "items": [
+      {
+        "name": "Bed",
+        "price": 15000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1760176444/pawnshop-products/sknmdp5xrc9lhjpvhvbd.png"
+      }
+    ],
+    "totalAmount": 15000,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "completed",
+    "upfrontAmount": 40,
+    "remainingAmount": 14960,
+    "commission": 0,
+    "razorpayOrderId": "order_RS8gSqhhtRZp8w",
+    "revenueStatus": "pending",
+    "revenueAmount": 40,
+    "adminReceivedAmount": 40,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": "2025-10-11T10:52:46.253Z",
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "createdAt": "2025-10-11T10:51:08.210Z",
+    "updatedAt": "2025-10-11T10:57:46.132Z",
+    "__v": 0,
+    "codConfirmedAt": "2025-10-11T10:52:46.253Z",
+    "codConfirmedBy": "Vishal Patel",
+    "id": "68ea369ce5a2c5d14e4427bf"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bed",
+        "price": 15000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1760176444/pawnshop-products/sknmdp5xrc9lhjpvhvbd.png"
+      }
+    ],
+    "totalAmount": 15000,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 40,
+    "remainingAmount": 14960,
+    "commission": 0,
+    "razorpayOrderId": "order_RS8pLfZW2IhOgN",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68ea3892fb894af426cc0ce3",
+    "createdAt": "2025-10-11T10:59:30.978Z",
+    "updatedAt": "2025-10-11T10:59:30.978Z",
+    "__v": 0,
+    "id": "68ea3892fb894af426cc0ce3"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bed",
+        "price": 15000,
+        "quantity": 2,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1760176444/pawnshop-products/sknmdp5xrc9lhjpvhvbd.png"
+      }
+    ],
+    "totalAmount": 30000,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 40,
+    "remainingAmount": 29960,
+    "commission": 0,
+    "razorpayOrderId": "order_RS96vpvC9OLhr3",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "_id": "68ea3c79dd8a393c523005f1",
+    "createdAt": "2025-10-11T11:16:09.453Z",
+    "updatedAt": "2025-10-11T11:16:09.453Z",
+    "__v": 0,
+    "id": "68ea3c79dd8a393c523005f1"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bunk-Bed",
+        "price": 50000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1760184656/pawnshop-products/o2awhtie36uqpq2vg9fi.png"
+      }
+    ],
+    "totalAmount": 50000,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 40,
+    "remainingAmount": 49960,
+    "commission": 0,
+    "razorpayOrderId": "order_RSrMvVMXoYt4Kk",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "trackingNumber": "RC20253CEC6FE6",
+    "courierProvider": "Delhivery",
+    "courierTrackingUrl": "https://www.delhivery.com/track/RC20253CEC6FE6",
+    "estimatedDeliveryDate": "2025-10-20T06:33:50.242Z",
+    "returnRequested": false,
+    "returnStatus": "none",
+    "invoiceNumber": "INV2025105DFF26",
+    "invoiceGeneratedAt": "2025-10-13T06:33:50.243Z",
+    "invoiceDownloadCount": 0,
+    "_id": "68ec9d4ec1973dfb0aba756b",
+    "createdAt": "2025-10-13T06:33:50.253Z",
+    "updatedAt": "2025-10-13T06:33:50.253Z",
+    "__v": 0,
+    "id": "68ec9d4ec1973dfb0aba756b"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Elephant Bookend",
+        "price": 2000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1760184807/pawnshop-products/zzawesu9no1zepesejlt.png"
+      }
+    ],
+    "totalAmount": 2000,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 40,
+    "remainingAmount": 1960,
+    "commission": 0,
+    "razorpayOrderId": "order_RTBdBBuHSBpnBv",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "trackingNumber": "RC2025661B863C",
+    "courierProvider": "Delhivery",
+    "courierTrackingUrl": "https://www.delhivery.com/track/RC2025661B863C",
+    "estimatedDeliveryDate": "2025-10-21T02:23:06.518Z",
+    "returnRequested": false,
+    "returnStatus": "none",
+    "invoiceNumber": "INV2025109CF9BB",
+    "invoiceGeneratedAt": "2025-10-14T02:23:06.519Z",
+    "invoiceDownloadCount": 0,
+    "_id": "68edb40a963f572655be55ff",
+    "createdAt": "2025-10-14T02:23:06.528Z",
+    "updatedAt": "2025-10-14T02:23:06.528Z",
+    "__v": 0,
+    "id": "68edb40a963f572655be55ff"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Bed",
+        "price": 15000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1760176444/pawnshop-products/sknmdp5xrc9lhjpvhvbd.png"
+      }
+    ],
+    "totalAmount": 15000,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 40,
+    "remainingAmount": 14960,
+    "commission": 0,
+    "razorpayOrderId": "order_RTBlHmMijkvrDT",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "trackingNumber": "RC202503BB9A1B",
+    "courierProvider": "Delhivery",
+    "courierTrackingUrl": "https://www.delhivery.com/track/RC202503BB9A1B",
+    "estimatedDeliveryDate": "2025-10-21T02:30:48.683Z",
+    "returnRequested": false,
+    "returnStatus": "none",
+    "invoiceNumber": "INV202510D979F2",
+    "invoiceGeneratedAt": "2025-10-14T02:30:48.684Z",
+    "invoiceDownloadCount": 0,
+    "_id": "68edb5d812609232486eafac",
+    "createdAt": "2025-10-14T02:30:48.692Z",
+    "updatedAt": "2025-10-14T02:30:48.692Z",
+    "__v": 0,
+    "id": "68edb5d812609232486eafac"
+  },
+  {
+    "customerName": "Vishal patel",
+    "email": "vishalpatel581012@gmail.com",
+    "phone": "7724817688",
+    "address": {
+      "street": "Bandarala",
+      "city": "Khandwa",
+      "state": "Madhya Pradesh",
+      "pincode": "450001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "name": "Elephant Bookend",
+        "price": 2000,
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/dbwizqyzg/image/upload/v1760184807/pawnshop-products/zzawesu9no1zepesejlt.png"
+      }
+    ],
+    "totalAmount": 2000,
+    "paymentMethod": "cod",
+    "orderStatus": "processing",
+    "paymentStatus": "pending",
+    "upfrontAmount": 40,
+    "remainingAmount": 1960,
+    "commission": 0,
+    "razorpayOrderId": "order_RTBtHT9zbQMAJ3",
+    "revenueStatus": "pending",
+    "revenueAmount": 0,
+    "adminReceivedAmount": 0,
+    "revenueEarnedAt": null,
+    "revenueConfirmedAt": null,
+    "cancellationRequested": false,
+    "cancellationStatus": "none",
+    "refundStatus": "none",
+    "refundAmount": 0,
+    "trackingNumber": "RC202520290D34",
+    "courierProvider": "Delhivery",
+    "courierTrackingUrl": "https://www.delhivery.com/track/RC202520290D34",
+    "estimatedDeliveryDate": "2025-10-21T02:38:23.233Z",
+    "returnRequested": false,
+    "returnStatus": "none",
+    "invoiceNumber": "INV202510C334AA",
+    "invoiceGeneratedAt": "2025-10-14T02:38:23.236Z",
+    "invoiceDownloadCount": 0,
+    "_id": "68edb79f0b693bf13e2c513e",
+    "createdAt": "2025-10-14T02:38:23.255Z",
+    "updatedAt": "2025-10-14T02:38:23.255Z",
+    "__v": 0,
+    "id": "68edb79f0b693bf13e2c513e"
+  }
+]
