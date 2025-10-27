@@ -21,7 +21,7 @@ const storage = new CloudinaryStorage({
   params: {
     folder: 'hero-carousel',
     allowed_formats: ['jpg', 'jpeg', 'png', 'gif', 'mp4', 'webp'],
-    transformation: [{ width: 1920, height: 1080, crop: 'limit' }],
+    transformation: [{ width: 1920, height: 720, crop: 'limit' }], // 1920x720 for banner images (2.66:1 aspect ratio)
     resource_type: 'auto'
   }
 });
