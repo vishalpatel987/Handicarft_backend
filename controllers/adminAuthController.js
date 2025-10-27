@@ -412,7 +412,7 @@ const adminForgotPassword = async (req, res) => {
       console.error('Email configuration missing. Please set EMAIL_USER and EMAIL_PASS environment variables.');
       
       // For development: show reset link in console
-      const resetLink = `${process.env.FRONTEND_URL || 'http://localhost:5173'}/admin/reset-password/${token}`;
+      const resetLink = `${process.env.ADMIN_FRONTEND_URL || 'http://localhost:5174'}/admin/reset-password/${token}`;
       console.log('\n=== PASSWORD RESET LINK (DEVELOPMENT MODE) ===');
       console.log(`Reset Link: ${resetLink}`);
       console.log('Copy this link and open in browser to reset password');
@@ -432,7 +432,7 @@ const adminForgotPassword = async (req, res) => {
       }
     });
 
-    const resetLink = `${process.env.FRONTEND_URL || 'http://localhost:5173'}/admin/reset-password/${token}`;
+    const resetLink = `${process.env.ADMIN_FRONTEND_URL || 'http://localhost:5174'}/admin/reset-password/${token}`;
 
     const mailOptions = {
       from: process.env.EMAIL_USER,
