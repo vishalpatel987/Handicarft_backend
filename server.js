@@ -33,7 +33,9 @@ const app = express();
 const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5174',
-  'http://localhost:5175',
+  'http://localhost:5175', 
+  'https://handicarft-user.vercel.app',
+  'https://handicraft-admin-iota.vercel.app',
   // 'https://www.rikocraft.com',
   // 'https://pawnadmin-thnt.vercel.app',
   // 'https://pawn-shop-git-local-host-api-used-aditya200410s-projects.vercel.app'
