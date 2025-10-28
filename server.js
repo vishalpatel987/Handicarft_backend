@@ -31,9 +31,9 @@ const app = express();
 
 // CORS configuration - Allow specific origins for production
 const allowedOrigins = [
-  'http://localhost:5173',
-  'http://localhost:5174',
-  'http://localhost:5175', 
+  process.env.FRONTEND_URL || 'http://localhost:5173',
+  process.env.ADMIN_FRONTEND_URL || 'http://localhost:5174',
+  process.env.BACKEND_URL || 'http://localhost:5175',
   'https://handicarft-user.vercel.app',
   'https://handicraft-admin-iota.vercel.app',
   // 'https://www.rikocraft.com',
@@ -155,7 +155,7 @@ app.use('/pawnbackend/data', (req, res, next) => {
 }));
 
 // MongoDB Connection URL from environment variable
-const MONGODB_URI = process.env.MONGODB_URI || "mongodb+srv://rikoenterprises25:2EKCeowE0NtO9d2q@cluster0.g68doth.mongodb.net/rikocraft?retryWrites=true&w=majority&appName=Cluster0";
+const MONGODB_URI = process.env.MONGODB_URI || "mongodb+srv://vishalpatel581012:7Gjs2vOB9X6uGw7j@binkeyit.mncq203.mongodb.net/Ricro_Craft?retryWrites=true&w=majority&appName=Binkeyit";
 
 // MongoDB Connection with retry logic and better error handling
 const connectWithRetry = async () => {
